@@ -32,6 +32,8 @@ openpyxl – Excel backend
 
 requests – for downloading sample image files
 
+
+
 🚀 Key Features
 ⚡ Asynchronous scraping using aiohttp — ~14,000 pages scraped in under 20 minutes
 
@@ -42,6 +44,8 @@ requests – for downloading sample image files
 🧾 Structured Excel output with up to 6 images per product
 
 🔁 Graceful handling of broken or inactive URLs
+
+
 
 📌 Use Case
 This type of scraper is useful for:
